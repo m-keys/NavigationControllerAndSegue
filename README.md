@@ -3,4 +3,7 @@ It is the educational project which transfers from one controller to another inf
 
 ![MainStoryboard Screenshot](https://github.com/m-keys/NavigationControllerAndSegue/blob/master/NavigationControllerAndSegue/images/screenMainStoryboard.png?raw=true)
 
+[![Video](https://i.ytimg.com/vi/JDfeQl931zw/1.jpg?time=1535698182982)]
+(https://youtu.be/JDfeQl931zw)
+
 Учебный проект «Переходы и контроллеры навигации» курса Swift Developer
