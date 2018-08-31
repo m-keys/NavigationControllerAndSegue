@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		92A51806213917DD003990A7 /* screenMainStoryboard.png in Resources */ = {isa = PBXBuildFile; fileRef = 92A51805213917DD003990A7 /* screenMainStoryboard.png */; };
-		92A51808213917E2003990A7 /* NavigationControllerAndSegue.mov in Resources */ = {isa = PBXBuildFile; fileRef = 92A51807213917E2003990A7 /* NavigationControllerAndSegue.mov */; };
 		92AA77FF21387DC300C0E181 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92AA77FE21387DC300C0E181 /* AppDelegate.swift */; };
 		92AA780121387DC300C0E181 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92AA780021387DC300C0E181 /* ViewController.swift */; };
 		92AA780421387DC300C0E181 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92AA780221387DC300C0E181 /* Main.storyboard */; };
@@ -19,7 +18,6 @@
 
 /* Begin PBXFileReference section */
 		92A51805213917DD003990A7 /* screenMainStoryboard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenMainStoryboard.png; sourceTree = "<group>"; };
-		92A51807213917E2003990A7 /* NavigationControllerAndSegue.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = NavigationControllerAndSegue.mov; sourceTree = "<group>"; };
 		92AA77FB21387DC300C0E181 /* NavigationControllerAndSegue.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigationControllerAndSegue.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92AA77FE21387DC300C0E181 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		92AA780021387DC300C0E181 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,14 +47,6 @@
 			path = images;
 			sourceTree = "<group>";
 		};
-		92A518012139139B003990A7 /* video */ = {
-			isa = PBXGroup;
-			children = (
-				92A51807213917E2003990A7 /* NavigationControllerAndSegue.mov */,
-			);
-			path = video;
-			sourceTree = "<group>";
-		};
 		92AA77F221387DC300C0E181 = {
 			isa = PBXGroup;
 			children = (
@@ -77,7 +67,6 @@
 			isa = PBXGroup;
 			children = (
 				92A517FF2139139B003990A7 /* images */,
-				92A518012139139B003990A7 /* video */,
 				92AA77FE21387DC300C0E181 /* AppDelegate.swift */,
 				92AA780021387DC300C0E181 /* ViewController.swift */,
 				92AA7810213881C300C0E181 /* SecondViewController.swift */,
@@ -152,7 +141,6 @@
 				92A51806213917DD003990A7 /* screenMainStoryboard.png in Resources */,
 				92AA780621387DC300C0E181 /* Assets.xcassets in Resources */,
 				92AA780421387DC300C0E181 /* Main.storyboard in Resources */,
-				92A51808213917E2003990A7 /* NavigationControllerAndSegue.mov in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
