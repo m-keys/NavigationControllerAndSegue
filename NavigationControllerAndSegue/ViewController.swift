@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         loginTextField.placeholder = "Login"
-        passwdTextField.placeholder = "Password "
+        passwdTextField.placeholder = "Password"
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
